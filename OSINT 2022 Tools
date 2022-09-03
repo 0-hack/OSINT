@@ -1,0 +1,96 @@
+OSINT 2022
+Reverse Image Searching
+1. Google Image Search - https://images.google.com
+2. Yandex - https://yandex.com
+3. TinEye - https://tineye.com
+
+Viewing EXIF Data
+1. Jeffrey's Image Metadata Viewer - http://exif.regex.info/exif.cgi
+
+Discovering Email Addresses
+1. Hunter.io - https://hunter.io/
+2. Phonebook.cz - https://phonebook.cz/
+3. VoilaNorbert - https://www.voilanorbert.com/
+4. Email Hippo - https://tools.verifyemailaddress.io/
+5. Email Checker - https://email-checker.net/validate
+6. Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+
+Hunting Breached Passwords
+1. Dehashed - https://dehashed.com/
+2. LeakCheck - https://leakcheck.io/
+3. SnusBase - https://snusbase.com/
+4. HaveIBeenPwned - https://haveibeenpwned.com/
+
+Hunting Usernames and Account
+1. NameChk - https://namechk.com/
+2. WhatsMyName - https://whatsmyname.app/
+3. NameCheckup - https://namecheckup.com/
+
+Searching for People (More US citizens)
+1. WhitePages - https://www.whitepages.com/
+2. FastBackgroundCheck - https://www.fastbackgroundcheck.com/
+3. WebMii - https://webmii.com/
+4. PeekYou - https://peekyou.com/
+5. 411 - https://www.411.com/
+6. Spokeo - https://www.spokeo.com/
+7. That'sThem - https://thatsthem.com/
+
+Vote Records (US citizen)
+1. Voter Records - https://www.voterrecords.com
+
+Hunting Phone Numbers
+1. TrueCaller - https://www.truecaller.com/
+2. CallerID Test - https://calleridtest.com/
+3. Infobel - https://infobel.com/
+
+Discovering Birthdates
+1. Google: “name” intext:”happy birthday”
+
+Searching for Resumes
+1. Google: “name” resume filetype:pdf/doc OR site:google.com
+
+Twitter OSINT
+1. Twitter Advanced Search - https://twitter.com/search-advanced
+2. Social Bearing - https://socialbearing.com/
+3. Twitonomy - https://www.twitonomy.com/
+4. Sleeping Time - http://sleepingtime.org/
+5. Mentionmapp - https://mentionmapp.com/
+6. Tweetbeaver - https://tweetbeaver.com/
+7. Spoonbill.io - http://spoonbill.io/
+8. Tinfoleak - https://tinfoleak.com/
+9. TweetDeck - https://tweetdeck.com/
+
+Facebook OSINT
+1. Sowdust Github - https://sowdust.github.io/fb-search/
+2. IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
+
+Instagram OSINT
+1. Wopita - https://wopita.com/
+2. Code of a Ninja - https://codeofaninja.com/tools/find-instagram-user-id/
+3. InstaDP - https://www.instadp.com/
+4. ImgInn - https://imginn.com/
+
+Snapchat OSINT
+1. Snapchat Maps - https://map.snapchat.com
+
+Website OSINT
+1. BuiltWith - https://builtwith.com/
+2. Domain Dossier - https://centralops.net/co/
+3. DNSlytics - https://dnslytics.com/reverse-ip
+4. SpyOnWeb - https://spyonweb.com/
+5. Virus Total - https://www.virustotal.com/
+6. Visual Ping - https://visualping.io/
+7. Back Link Watch - http://backlinkwatch.com/index.php
+8. View DNS - https://viewdns.info/
+9. Pentest-Tools Subdomain Finder - https://pentest-tools.com/information-gathering/find-subdomains-of-domain#
+10. Spyse - https://spyse.com/
+11. crt.sh - https://crt.sh/
+12. Shodan - https://shodan.io
+13. Wayback Machine - https://web.archive.org/
+
+Hunting Business Information
+1. Open Corporates - https://opencorporates.com/
+2. AI HIT - https://www.aihitdata.com/
+
+Wireless OSINT
+WiGLE - https://wigle.net/
